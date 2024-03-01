@@ -111,7 +111,7 @@ export default function FindUsers() {
             index={idx + 1}
             fullName={`${user.firstName} ${user.lastName}`}
             id={user.userId}
-            username={user.username}
+            username={user.firstName}
           />
         ))
       )}

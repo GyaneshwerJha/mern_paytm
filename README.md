@@ -41,5 +41,3 @@ Welcome to the Paytm App, a simple application for handling transactions and mon
    git clone https://github.com/GyaneshwerJha/mern_paytm.git
    cd mern_paytm
 
-## todo -
-fix user name beside hello, 
