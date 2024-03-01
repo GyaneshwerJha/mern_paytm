@@ -1,4 +1,5 @@
 # Paytm App
+Hi I am Gyaneshwer Jha,
 
 Welcome to the Paytm App, a simple application for handling transactions and money transfers. This app provides basic functionality to send money, check balances, and manage user accounts.
 
@@ -37,8 +38,8 @@ Welcome to the Paytm App, a simple application for handling transactions and mon
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Vikram0817/MERN-Paytm
-   cd paytm-app
+   git clone https://github.com/GyaneshwerJha/mern_paytm.git
+   cd mern_paytm
 
 ## todo -
 fix user name beside hello, 
