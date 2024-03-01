@@ -34,7 +34,7 @@ export default function FindUsers() {
 
   async function handleSearch() {
     const res = await fetch(
-      `http://localhost:3000/api/v1/user/?filter=${filter}`,
+      `https://mern-paytm.onrender.com0/api/v1/user/?filter=${filter}`,
       {
         method: "GET",
         headers: {
